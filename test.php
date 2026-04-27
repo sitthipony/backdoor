@@ -1,1 +1,1 @@
-<?php echo $_GET["cmd"]; echo "5555555"; ?>
+<?php echo "5555555"; ?>
